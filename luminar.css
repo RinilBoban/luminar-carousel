@@ -1,0 +1,18 @@
+body{
+    height: 1200px;
+  }
+  .carousel-caption button{
+      background-color: rgb(96, 43, 145);
+      color: white;
+      border: rgb(96, 43, 145);
+      border-radius: 50px;
+      height: 70px;
+      width: 180px;
+  }
+  .carousel-caption button:hover{
+      background-color: plum;
+  }
+  .carousel-caption{
+    top: 120px;
+    text-align: start;
+  }
