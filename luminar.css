@@ -16,3 +16,23 @@ body{
     top: 120px;
     text-align: start;
   }
+  .row{
+    margin-left: 60px;
+    margin-right: 70px;
+}
+.col-7 h2{
+  color: rgb(96, 43, 145);
+}
+.col-7 button{
+  background-color: rgb(96, 43, 145);
+  color: white;
+  border: rgb(96, 43, 145);
+  border-radius: 50px;
+  height: 70px;
+  width: 180px;
+}
+.col-7 button:hover{
+  background-color: white;
+  color: rgb(96, 43, 145);
+  border: 2px solid rgb(96, 43, 145);
+}
